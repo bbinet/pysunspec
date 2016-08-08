@@ -1,0 +1,5 @@
+pysunspec (1.0.7+hl1) stable; urgency=medium
+
+  * create debian packaging for pysunspec 1.0.7
+
+ -- Bruno Binet <bruno.binet@gmail.com>  Mon, 08 Aug 2016 16:06:26 +0200

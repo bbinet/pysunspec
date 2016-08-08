@@ -1,0 +1,18 @@
+Source: pysunspec
+Maintainer: Bruno Binet <bruno.binet@helioslite.com>
+Homepage: https://bitbucket.org/helioslite/pysunspec
+Section: python
+X-Python-Version: >= 2.7
+Priority: optional
+Build-Depends: debhelper (>= 8),
+               dh-python,
+               python-all (>= 2.7.3),
+               python-serial,
+Standards-Version: 3.9.5
+
+Package: python-pysunspec
+Architecture: all
+Depends: ${misc:Depends}, ${python:Depends}
+Provides: ${python:Provides}
+Description: Python SunSpec Tools.
+ It provides a Python API and tool to query SunSpec-enabled inverters.
