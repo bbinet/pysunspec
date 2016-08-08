@@ -1,0 +1,9 @@
+/.pybuild/
+/PKG-INFO
+/build/
+/debian/files
+/debian/python-pysunspec.debhelper.log
+/debian/python-pysunspec.postinst.debhelper
+/debian/python-pysunspec.prerm.debhelper
+/debian/python-pysunspec.substvars
+/debian/python-pysunspec/
