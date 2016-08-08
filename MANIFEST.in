@@ -1,0 +1,3 @@
+include sunspec/models/smdx/*.xml
+include sunspec/models/smdx/*.xsd
+include LICENSE
